@@ -1,0 +1,1 @@
+Epoch,Training Loss,Validation Loss,Training Accuracy,Validation Accuracys,Best Val DSC,Learning Rate,Model Name,Gamma,Train Precision,Train Recall,Train AUC,Train mIoU,Val Precision,Val Recall,Val AUC,Val mIoU,Train Dice,Val Dice,Epoch Time
